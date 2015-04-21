@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<siteList>
+    <site id="1" latitude="0" longitude="0" name="site1">
+        <tower id="1" height="10.0" name="tower a" sides="5">
+            <equipment id="1" brand="homemade" description="awesome equipment" name="equipment1" price="10.0"/>
+        </tower>
+    </site>
+</siteList>
